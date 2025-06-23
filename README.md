@@ -138,7 +138,7 @@ Gets updates from the remote repository.
 
 🔄 8. Clone a Repository
 
-git clone https://github.com/username/repo.git
+git clone [ https://github.com/username/repo.git](https://github.com/Shanto-123/TO-DO-FULL-SOFTWARE/tree/main)
 Creates a local copy of an existing GitHub repository.
 
 🌳 Branching (Optional)
